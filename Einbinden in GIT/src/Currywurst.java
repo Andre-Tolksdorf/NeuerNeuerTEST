@@ -5,7 +5,7 @@ public class Currywurst {
 		// TODO Auto-generated method stub
 
 		System.out.println("Servus");
-		
+		System.out.println("Currywurst");
 	}
 
 }
