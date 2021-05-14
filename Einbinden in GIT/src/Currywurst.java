@@ -8,7 +8,7 @@ public class Currywurst {
 		System.out.println("HI");
 		
 		
-		
+		System.out.println("Guten tag");
 		
 		
 		
