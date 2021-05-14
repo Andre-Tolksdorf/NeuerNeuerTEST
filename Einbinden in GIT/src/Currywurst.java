@@ -7,6 +7,11 @@ public class Currywurst {
 		System.out.println("Servus");
 		System.out.println("HI");
 		
+		
+		
+		
+		
+		
 	}
 
 }
